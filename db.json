@@ -1,4 +1,3 @@
-[
 {
   "products": [
     {
@@ -33,7 +32,7 @@
       "description": "This lovely blend features Gotham Greens' Tropicana green leaf, Red Sail red leaf, Oak leaf, Lollo Rossa and tender Butterhead lettuces. Perfect for a colorful salad that's (almost) grown right in your own backyard!",
       "price": 3.49,
       "available": 10,
-      "weight": 0.3,
+      "weight": 0.30,
       "perishable": true,
       "categories": [
         "produce",
@@ -144,4 +143,3 @@
     "name": "typicode"
   }
 }
-]
